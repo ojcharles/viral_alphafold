@@ -12,4 +12,10 @@ Any publication that discloses findings arising from using these generated struc
 applicable, the [AlphaFold-Multimer paper](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1).
 
 
+## Evolution of SarsCoV2 spike electrostatic surface
+
+![HCMV gH gL dimer](imgs/sarscov2_spike_wu_de_omi.gif)
+
+
+## Human Cytomegalovirus Glycoprotein gH and gL form a dimer complex
 ![HCMV gH gL dimer](imgs/gH_gL.gif)
