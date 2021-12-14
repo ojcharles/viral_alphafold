@@ -1,0 +1,114 @@
+2021-12-03 23:29:28,888 Running colabfold 1.2.0
+2021-12-03 23:29:28,889 Found 5 citations for tools or databases
+2021-12-03 23:29:35,158 Query 1/2: goPDGFRA (length 1561)
+2021-12-03 23:29:35,611 Sleeping for 7s. Reason: PENDING
+2021-12-03 23:29:42,727 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:29:47,909 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:29:58,035 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:30:07,153 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:30:13,276 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:30:22,400 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:30:28,519 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:30:33,636 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:30:42,758 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:30:47,877 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:30:57,000 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:31:06,158 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:31:12,291 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:31:18,409 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:31:26,533 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:31:35,652 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:31:41,772 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:31:48,953 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:31:56,075 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:32:06,197 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:32:15,312 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:32:23,426 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:32:28,543 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:32:35,664 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:32:42,807 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:32:51,941 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:33:01,069 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:33:07,259 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:33:13,377 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:33:23,498 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:33:30,620 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:33:39,738 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:33:44,868 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:33:50,042 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:33:58,166 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:34:06,294 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:34:15,414 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:34:21,530 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:34:31,651 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:34:37,801 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:34:46,938 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:34:54,057 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:35:02,176 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:35:12,308 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:35:22,435 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:35:31,556 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:35:37,677 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:35:45,800 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:35:53,947 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:36:04,071 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:36:09,196 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:36:15,317 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:36:20,434 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:36:27,559 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:36:37,687 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:36:47,817 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:36:54,949 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:37:05,073 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:37:13,199 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:37:20,312 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:37:30,436 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:37:40,554 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:37:45,674 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:37:52,826 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:38:02,991 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:38:09,898 Sleeping for 10s. Reason: PENDING
+2021-12-03 23:38:20,019 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:38:25,141 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:38:35,259 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:38:45,405 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:38:54,529 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:39:01,658 Sleeping for 5s. Reason: RUNNING
+2021-12-03 23:39:06,789 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:39:15,978 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:39:25,103 Sleeping for 9s. Reason: RUNNING
+2021-12-03 23:39:34,226 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:39:42,354 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:39:52,475 Sleeping for 8s. Reason: RUNNING
+2021-12-03 23:40:00,595 Sleeping for 7s. Reason: RUNNING
+2021-12-03 23:40:07,709 Sleeping for 6s. Reason: RUNNING
+2021-12-03 23:40:13,906 Sleeping for 10s. Reason: RUNNING
+2021-12-03 23:40:27,856 Running model_3
+2021-12-04 00:18:06,275 model_3 took 0.0s with pLDDT 56.4
+2021-12-04 00:18:10,333 Running model_4
+2021-12-04 00:54:07,922 model_4 took 0.0s with pLDDT 68.2
+2021-12-04 00:54:12,089 Running model_5
+2021-12-04 01:30:27,528 model_5 took 0.0s with pLDDT 69.7
+2021-12-04 01:30:31,674 Running model_1
+2021-12-04 02:07:21,293 model_1 took 0.0s with pLDDT 60.3
+2021-12-04 02:07:29,101 Running model_2
+2021-12-04 03:49:18,097 model_2 took 0.0s with pLDDT 61.1
+2021-12-04 03:49:22,087 reranking models based on avg. predicted lDDT
+2021-12-04 03:49:53,342 Query 2/2: ghglgo (length 1492)
+2021-12-04 03:49:53,634 Sleeping for 6s. Reason: PENDING
+2021-12-04 03:49:59,760 Sleeping for 10s. Reason: RUNNING
+2021-12-04 03:50:09,893 Sleeping for 5s. Reason: RUNNING
+2021-12-04 03:50:15,007 Sleeping for 9s. Reason: RUNNING
+2021-12-04 03:50:24,134 Sleeping for 9s. Reason: RUNNING
+2021-12-04 03:50:33,258 Sleeping for 5s. Reason: RUNNING
+2021-12-04 03:50:38,381 Sleeping for 5s. Reason: RUNNING
+2021-12-04 03:50:43,500 Sleeping for 6s. Reason: RUNNING
+2021-12-04 03:50:49,625 Sleeping for 7s. Reason: RUNNING
+2021-12-04 03:50:56,933 Could not generate input features ghglgo: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/oc/envs/colabfold/lib/python3.8/site-packages/colabfold/batch.py", line 976, in run
+    input_features = generate_input_feature(
+  File "/home/oc/envs/colabfold/lib/python3.8/site-packages/colabfold/batch.py", line 708, in generate_input_feature
+    paired_msa[sequence_index]
+TypeError: 'NoneType' object is not subscriptable
+2021-12-04 03:50:56,934 Done
